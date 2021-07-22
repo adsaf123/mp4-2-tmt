@@ -5,6 +5,7 @@
 
 ## How to do
 
+ - create folders 'frames' and 'mini' (github doen't like empty folders)
  - in [video2png.py](video2png.py) put relative path to video
  - run [video2png.py](video2png.py)
  - when done, run [downscaling.py](downscaling.py)
